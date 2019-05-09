@@ -4,3 +4,4 @@ branch test
 master
 dev_01
 dev_02
+master_02
