@@ -1,0 +1,12 @@
+first file ...
+add second line ...
+branch test
+master
+dev_01
+dev_02
+master_02
+dev_01_02
+dev_01_03
+master stash
+
+issue fixed
